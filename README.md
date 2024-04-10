@@ -4,7 +4,7 @@ Encontra-se grandes **funcionalidades** dentro do site com *home*, *pagina* de c
 
 ## Instalações
 
-localost:/8000, requeriments.txt e pacotes
+_localost:/8000, **requeriments.txt** e pacotes_
 
 ###### Contribuições 
 
