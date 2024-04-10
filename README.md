@@ -8,4 +8,4 @@ _localost:/8000, **requeriments.txt** e pacotes_
 
 ###### Contribuições 
 
-Davi Pires
+__Davi__ _Pires_
