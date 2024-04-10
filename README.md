@@ -1,6 +1,6 @@
 # Empresa X
 
-Encontra-se grandes funcionalidades dentro do site com home, pagina de contato e entre outros.
+Encontra-se grandes **funcionalidades** dentro do site com *home*, *pagina* de contato e entre outros.
 
 ## Instalações
 
