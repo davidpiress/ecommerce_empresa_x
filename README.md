@@ -29,3 +29,7 @@ __Davi__ _Pires_
 #### Imagem Local
 
 ![Logo do Python](img/download.png)
+
+#### Imagem Externa
+
+![Logo do Django](https://br.images.search.yahoo.com/search/images?p=logo+do+django&fr=mcafee&type=E211BR714G0&imgurl=https%3A%2F%2Flogodix.com%2Flogo%2F1758790.gif#id=-1&iurl=https%3A%2F%2Flogodix.com%2Flogo%2F1758790.gif&action=click)
