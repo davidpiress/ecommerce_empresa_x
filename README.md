@@ -25,3 +25,7 @@ __Davi__ _Pires_
     2. posso faazer qualquer coisa sem afeta minha maquina local
 2. pip
 3. pipenv
+
+#### Imagem Local
+
+![Logo do Python](img/dowload.png)
