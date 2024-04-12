@@ -36,6 +36,6 @@ __Davi__ _Pires_
 
 ## Links interessantes
 
-[Google](https://www.gooogle.com)
+[Google](https://www.google.com)
 
-[https://www.gooogle.com](https://www.gooogle.com)
+[https://www.google.com](https://www.google.com)
