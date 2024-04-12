@@ -33,3 +33,7 @@ __Davi__ _Pires_
 #### Imagem Externa
 
 ![Logo do Django](https://pt.wikipedia.org/wiki/Ficheiro:Django_2.1_landing_page.png)
+
+## Links interessantes
+
+[Google](https://www.gooogle.com)
