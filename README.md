@@ -32,4 +32,4 @@ __Davi__ _Pires_
 
 #### Imagem Externa
 
-![Logo do Django](https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fwww.djangoproject.com%2Fcommunity%2Flogos%2F&psig=AOvVaw0GX1oxuJAHz7i_Ar9bHro_&ust=1712966288242000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCfw-quu4UDFQAAAAAdAAAAABAE)
+![Logo do Django](https://pt.wikipedia.org/wiki/Ficheiro:Django_2.1_landing_page.png)
